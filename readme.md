@@ -21,6 +21,9 @@ A simple UNIX-like shell built in C that supports basic command execution, built
 gcc shell.c -o mysh
 ./mysh
 ```
+
+---
+
 # Example usage
 
 mysh> ls -l
