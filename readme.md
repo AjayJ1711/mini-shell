@@ -26,10 +26,12 @@ gcc shell.c -o mysh
 
 # Example usage
 
+```bash
 mysh> ls -l
 mysh> cat input.txt > output.txt
 mysh> sort < unsorted.txt | uniq | tee result.txt
 mysh> cd ..
+```
 
 # Limitations / Future Enhancements
 
